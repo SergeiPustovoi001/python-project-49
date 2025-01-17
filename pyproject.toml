@@ -11,7 +11,14 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "prompt>=0.4.1",
+]
 
 [project.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
+
+[dependency-groups]
+dev = [
+    "ruff>=0.9.2",
+]
