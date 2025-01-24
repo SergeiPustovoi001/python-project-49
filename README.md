@@ -4,6 +4,5 @@
 
 Игрок отвечает на вопросы. Если он дает три правильных ответа подряд, игра считается успешно завершенной. Любой неправильный ответ завершает игру.
 
-View the recording at:
-
-    https://asciinema.org/a/zoQrV6xTd6qR9J7DrlhR98cEO
+Работу игры можно посмотреть по ссылке:
+https://asciinema.org/a/VZhmkWOvLmVVSF4JvJAHEObU9
