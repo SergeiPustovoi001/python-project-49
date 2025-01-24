@@ -12,3 +12,7 @@ https://asciinema.org/a/VZhmkWOvLmVVSF4JvJAHEObU9
 View the recording at:
 
     https://asciinema.org/a/jdk8ePXSzBLMun6SXzICRxG5O
+
+Работа игры "Арифметическая прогрессия"
+
+https://asciinema.org/a/A44gJ4nVmWRzGOyUuRwhHcUmo
