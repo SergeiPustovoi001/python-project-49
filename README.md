@@ -16,3 +16,6 @@ View the recording at:
 Работа игры "Арифметическая прогрессия"
 
 https://asciinema.org/a/A44gJ4nVmWRzGOyUuRwhHcUmo
+
+Работа игры "Простое ли число?"
+https://asciinema.org/a/lXDE2pdV85LyeJ3NDZpNpmjIv
